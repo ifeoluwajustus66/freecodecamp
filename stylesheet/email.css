@@ -1,0 +1,65 @@
+.freec {
+    background-color: rgb(18, 18, 20);
+    color: #fff;
+    padding: 0 0 0 600px;
+    height: 30px;
+    font-size: 25px;
+}
+
+input {
+    margin:7px 0 0 320px;
+    width: 790px;
+    height: 40px;
+}
+input:hover {
+    border-color: #D5CABD;
+    cursor: text;
+}
+.p1 {
+    margin: 70px 0 0 450px;
+    font-size: 57px;
+    font-family:" lato", arial;
+}
+.p2 {
+    margin: 20px 0 0 350px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: 20px;
+    font-family: "lato" ,arial;
+}
+.p6 {
+    margin: 27px 0 0 320px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 20px;
+    font-family: "lato" ,arial;
+}
+.btn3 {
+    height: 3.5rem;
+    font-size: 1.6rem;
+    border: 3px solid #0a0a23 ;
+    
+    background-color: #B0A8B9 ;
+    margin:  25px 0 0 430px;
+    width: 600px;
+}
+.btn3:hover {
+    background-color: rgb(18, 18, 20);
+    cursor: pointer;
+    color: #fff;
+}
+.footer {
+    margin: 20px 100px 0 260px;
+    font-size: 1.2rem;
+    display: inline-flex;
+    word-wrap: break-word;
+    word-spacing: 3px;
+}
+a {
+    margin-top: 20px;
+    color: #000;
+}
+a:hover {
+    background-color: #B0A8B9;  
+    cursor: pointer;
+}
