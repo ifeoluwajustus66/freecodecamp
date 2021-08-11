@@ -3,7 +3,11 @@
     padding: 0;
 }
 
+@media screen and (max-width:780px,)  {
+    body{
 
+    }
+}
 .navbar {
     display: flex;
     flex-direction: row;
